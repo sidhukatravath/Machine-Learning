@@ -8,6 +8,8 @@ Nayak_Ml.ipynb
 
 Machine-Learning
 
+https://github.com/sidhukatravath/Machine-Learning.git
+
 The repository contains:
 
 A Jupyter notebook with all experiments.
